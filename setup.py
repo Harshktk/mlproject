@@ -1,3 +1,4 @@
+#Using setup.py i can develop my entire machine learning application as a package and deploy on pypi . 
 #Building our application as a package itself.
 #Can use it in pypi
 
